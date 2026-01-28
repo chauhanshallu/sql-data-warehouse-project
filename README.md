@@ -79,4 +79,4 @@ data-warehouse-project/
 
 Let's stay in touch! Feel free to connect with me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shallu-chauhan-3b8625140)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shallu-chauhan-3b8625140)
